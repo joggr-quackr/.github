@@ -2,7 +2,7 @@
 
 # Overview
 
-> A real(ish) world example of how to use Joggr.
+> A real(ish) world example of Joggr in production.
 
 This GitHub organization is a end-to-end example of how to use Joggr with-in and organization, including:
 
